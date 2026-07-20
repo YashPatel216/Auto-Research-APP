@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-classic
+langchain-groq
+langchain-community
+tavily-python
+requests
+beautifulsoup4
+python-dotenv
+rich
+streamlit
+tenacity
